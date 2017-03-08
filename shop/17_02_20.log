@@ -1,0 +1,12 @@
+[ 2017-02-20T20:53:51+08:00 ] ::1 /web/shop/index.php/Admin/Manager/admin.png
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000022s ]
+
+[ 2017-02-20T20:53:51+08:00 ] ::1 /web/shop/index.php/Admin/Manager/user_botton.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000034s ]
+

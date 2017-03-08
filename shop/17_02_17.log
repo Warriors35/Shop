@@ -1,0 +1,252 @@
+[ 2017-02-17T16:35:29+08:00 ] ::1 /web/shop/index.php/home/user/logo.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000142s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000010s ]
+
+[ 2017-02-17T16:35:29+08:00 ] ::1 /web/shop/index.php/home/user/biao7.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000017s ]
+
+[ 2017-02-17T16:35:29+08:00 ] ::1 /web/shop/index.php/home/user/bnt_ur_reg.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000017s ]
+
+[ 2017-02-17T16:35:29+08:00 ] ::1 /web/shop/index.php/home/user/biao3.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000017s ]
+
+[ 2017-02-17T16:35:29+08:00 ] ::1 /web/shop/index.php/home/user/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000024s ]
+
+[ 2017-02-17T16:35:29+08:00 ] ::1 /web/shop/index.php/home/user/biao6.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000054s ]
+
+[ 2017-02-17T16:35:29+08:00 ] ::1 /web/shop/index.php/home/user/di.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000138s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000020s ]
+
+[ 2017-02-17T16:35:30+08:00 ] ::1 /web/shop/index.php/home/user/logo.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000016s ]
+
+[ 2017-02-17T16:35:30+08:00 ] ::1 /web/shop/index.php/home/user/biao7.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000017s ]
+
+[ 2017-02-17T16:35:30+08:00 ] ::1 /web/shop/index.php/home/user/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000035s ]
+
+[ 2017-02-17T16:35:30+08:00 ] ::1 /web/shop/index.php/home/user/biao6.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000031s ]
+
+[ 2017-02-17T16:35:30+08:00 ] ::1 /web/shop/index.php/home/user/biao3.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000118s ]
+
+[ 2017-02-17T16:35:30+08:00 ] ::1 /web/shop/index.php/home/user/di.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000063s ]
+
+[ 2017-02-17T16:35:30+08:00 ] ::1 /web/shop/index.php/home/user/bnt_ur_reg.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000014s ]
+
+[ 2017-02-17T16:35:31+08:00 ] ::1 /web/shop/index.php/home/user/logo.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000017s ]
+
+[ 2017-02-17T16:35:31+08:00 ] ::1 /web/shop/index.php/home/user/biao6.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000024s ]
+
+[ 2017-02-17T16:35:31+08:00 ] ::1 /web/shop/index.php/home/user/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000026s ]
+
+[ 2017-02-17T16:35:31+08:00 ] ::1 /web/shop/index.php/home/user/di.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000017s ]
+
+[ 2017-02-17T16:35:31+08:00 ] ::1 /web/shop/index.php/home/user/biao7.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000016s ]
+
+[ 2017-02-17T16:35:31+08:00 ] ::1 /web/shop/index.php/home/user/biao3.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000019s ]
+
+[ 2017-02-17T16:35:31+08:00 ] ::1 /web/shop/index.php/home/user/bnt_ur_reg.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000013s ]
+
+[ 2017-02-17T16:35:48+08:00 ] ::1 /web/shop/index.php/home/user/logo.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000017s ]
+
+[ 2017-02-17T16:35:48+08:00 ] ::1 /web/shop/index.php/home/user/biao6.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000014s ]
+
+[ 2017-02-17T16:35:48+08:00 ] ::1 /web/shop/index.php/home/user/biao7.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000016s ]
+
+[ 2017-02-17T16:35:48+08:00 ] ::1 /web/shop/index.php/home/user/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000019s ]
+
+[ 2017-02-17T16:35:48+08:00 ] ::1 /web/shop/index.php/home/user/di.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001026s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000022s ]
+
+[ 2017-02-17T16:35:48+08:00 ] ::1 /web/shop/index.php/home/user/bnt_ur_reg.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000022s ]
+
+[ 2017-02-17T16:35:48+08:00 ] ::1 /web/shop/index.php/home/user/biao3.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000883s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000021s ]
+
+[ 2017-02-17T16:35:49+08:00 ] ::1 /web/shop/index.php/home/user/logo.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000016s ]
+
+[ 2017-02-17T16:35:49+08:00 ] ::1 /web/shop/index.php/home/user/biao6.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000196s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000017s ]
+
+[ 2017-02-17T16:35:49+08:00 ] ::1 /web/shop/index.php/home/user/biao7.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000019s ]
+
+[ 2017-02-17T16:35:49+08:00 ] ::1 /web/shop/index.php/home/user/di.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000022s ]
+
+[ 2017-02-17T16:35:49+08:00 ] ::1 /web/shop/index.php/home/user/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000030s ]
+
+[ 2017-02-17T16:35:49+08:00 ] ::1 /web/shop/index.php/home/user/bnt_ur_reg.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000020s ]
+
+[ 2017-02-17T16:35:49+08:00 ] ::1 /web/shop/index.php/home/user/biao3.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000044s ]
+
+[ 2017-02-17T16:35:49+08:00 ] ::1 /web/shop/index.php/home/user/logo.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000017s ]
+
+[ 2017-02-17T16:35:49+08:00 ] ::1 /web/shop/index.php/home/user/biao7.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000197s ]
+
+[ 2017-02-17T16:35:49+08:00 ] ::1 /web/shop/index.php/home/user/biao6.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000050s ]
+
+[ 2017-02-17T16:35:49+08:00 ] ::1 /web/shop/index.php/home/user/di.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000017s ]
+
+[ 2017-02-17T16:35:49+08:00 ] ::1 /web/shop/index.php/home/user/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.002709s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000013s ]
+
+[ 2017-02-17T16:35:49+08:00 ] ::1 /web/shop/index.php/home/user/biao3.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000113s ]
+
+[ 2017-02-17T16:35:49+08:00 ] ::1 /web/shop/index.php/home/user/bnt_ur_reg.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000172s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000018s ]
+

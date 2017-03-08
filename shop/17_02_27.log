@@ -1,0 +1,10 @@
+[ 2017-02-27T21:40:42+08:00 ] ::1 /web/shop/index.php/Adm
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+ERR: 无法加载模块:Adm
+
+[ 2017-02-27T21:52:08+08:00 ] ::1 /web/shop/index.php/goods/123
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000171s ]
+ERR: 无法加载模块:goods
+

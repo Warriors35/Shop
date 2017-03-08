@@ -1,0 +1,408 @@
+[ 2017-02-15T18:43:04+08:00 ] ::1 /web/shop/index.php/Admin/Index/menu_icon.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000016s ]
+
+[ 2017-02-15T18:43:04+08:00 ] ::1 /web/shop/index.php/Admin/Index/admin_p.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000163s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000010s ]
+
+[ 2017-02-15T18:43:04+08:00 ] ::1 /web/shop/index.php/Admin/Index/menu_icon.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000018s ]
+
+[ 2017-02-15T18:43:04+08:00 ] ::1 /web/shop/index.php/Admin/Index/menu_bt.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000016s ]
+
+[ 2017-02-15T18:43:04+08:00 ] ::1 /web/shop/index.php/Admin/Index/menu_bg.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000017s ]
+
+[ 2017-02-15T18:43:04+08:00 ] ::1 /web/shop/index.php/Admin/Index/shadow_bg.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000020s ]
+
+[ 2017-02-15T18:43:04+08:00 ] ::1 /web/shop/index.php/Admin/Index/title_bg1.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000827s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000024s ]
+
+[ 2017-02-15T18:43:04+08:00 ] ::1 /web/shop/index.php/Admin/Index/header_left.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000015s ]
+
+[ 2017-02-15T18:43:04+08:00 ] ::1 /web/shop/index.php/Admin/Index/header_right.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001585s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000049s ]
+
+[ 2017-02-15T18:43:04+08:00 ] ::1 /web/shop/index.php/Admin/Index/header_bg.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000139s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000009s ]
+
+[ 2017-02-15T18:43:04+08:00 ] ::1 /web/shop/index.php/Admin/Index/title_bg2.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000168s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000014s ]
+
+[ 2017-02-15T18:43:50+08:00 ] ::1 /web/shop/index.php/Admin/Index/admin_p.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000017s ]
+
+[ 2017-02-15T18:43:50+08:00 ] ::1 /web/shop/index.php/Admin/Index/header_left.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000134s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000011s ]
+
+[ 2017-02-15T18:43:50+08:00 ] ::1 /web/shop/index.php/Admin/Index/header_right.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000016s ]
+
+[ 2017-02-15T18:43:50+08:00 ] ::1 /web/shop/index.php/Admin/Index/menu_icon.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000808s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000061s ]
+
+[ 2017-02-15T18:43:50+08:00 ] ::1 /web/shop/index.php/Admin/Index/shadow_bg.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000018s ]
+
+[ 2017-02-15T18:43:50+08:00 ] ::1 /web/shop/index.php/Admin/Index/title_bg1.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000015s ]
+
+[ 2017-02-15T18:43:50+08:00 ] ::1 /web/shop/index.php/Admin/Index/title_bg2.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000032s ]
+
+[ 2017-02-15T18:43:50+08:00 ] ::1 /web/shop/index.php/Admin/Index/header_bg.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001395s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000033s ]
+
+[ 2017-02-15T18:43:50+08:00 ] ::1 /web/shop/index.php/Admin/Index/menu_bt.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000017s ]
+
+[ 2017-02-15T18:43:50+08:00 ] ::1 /web/shop/index.php/Admin/Index/menu_bg.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000010s ]
+
+[ 2017-02-15T18:44:58+08:00 ] ::1 /web/shop/index.php/Admin/Index/header_left.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000017s ]
+
+[ 2017-02-15T18:44:58+08:00 ] ::1 /web/shop/index.php/Admin/Index/header_right.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000925s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000017s ]
+
+[ 2017-02-15T18:44:58+08:00 ] ::1 /web/shop/index.php/Admin/Index/menu_icon.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000700s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000022s ]
+
+[ 2017-02-15T18:44:58+08:00 ] ::1 /web/shop/index.php/Admin/Index/admin_p.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000013s ]
+
+[ 2017-02-15T18:44:58+08:00 ] ::1 /web/shop/index.php/Admin/Index/menu_bt.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000015s ]
+
+[ 2017-02-15T18:44:58+08:00 ] ::1 /web/shop/index.php/Admin/Index/menu_bg.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000023s ]
+
+[ 2017-02-15T18:44:58+08:00 ] ::1 /web/shop/index.php/Admin/Index/shadow_bg.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000017s ]
+
+[ 2017-02-15T18:44:58+08:00 ] ::1 /web/shop/index.php/Admin/Index/title_bg2.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000025s ]
+
+[ 2017-02-15T18:44:58+08:00 ] ::1 /web/shop/index.php/Admin/Index/title_bg1.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000034s ]
+
+[ 2017-02-15T18:45:17+08:00 ] ::1 /web/shop/index.php/Admin/Index/menu_icon.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001959s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000019s ]
+
+[ 2017-02-15T18:45:17+08:00 ] ::1 /web/shop/index.php/Admin/Index/menu_bt.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000014s ]
+
+[ 2017-02-15T18:45:17+08:00 ] ::1 /web/shop/index.php/Admin/Index/menu_bg.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000017s ]
+
+[ 2017-02-15T18:45:17+08:00 ] ::1 /web/shop/index.php/Admin/Index/menu_icon.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001891s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000029s ]
+
+[ 2017-02-15T18:45:17+08:00 ] ::1 /web/shop/index.php/Admin/Index/admin_p.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000020s ]
+
+[ 2017-02-15T18:45:17+08:00 ] ::1 /web/shop/index.php/Admin/Index/title_bg1.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000015s ]
+
+[ 2017-02-15T18:45:17+08:00 ] ::1 /web/shop/index.php/Admin/Index/shadow_bg.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000011s ]
+
+[ 2017-02-15T18:45:17+08:00 ] ::1 /web/shop/index.php/Admin/Index/title_bg2.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000019s ]
+
+[ 2017-02-15T18:45:19+08:00 ] ::1 /web/shop/index.php/Admin/Index/menu_icon.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000017s ]
+
+[ 2017-02-15T18:45:19+08:00 ] ::1 /web/shop/index.php/Admin/Index/menu_bg.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000017s ]
+
+[ 2017-02-15T18:45:19+08:00 ] ::1 /web/shop/index.php/Admin/Index/menu_icon.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.008694s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000025s ]
+
+[ 2017-02-15T18:45:19+08:00 ] ::1 /web/shop/index.php/Admin/Index/menu_bt.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000196s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000015s ]
+
+[ 2017-02-15T18:45:19+08:00 ] ::1 /web/shop/index.php/Admin/Index/admin_p.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000052s ]
+
+[ 2017-02-15T18:45:19+08:00 ] ::1 /web/shop/index.php/Admin/Index/shadow_bg.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.002981s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.001541s ]
+
+[ 2017-02-15T18:45:19+08:00 ] ::1 /web/shop/index.php/Admin/Index/title_bg2.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000029s ]
+
+[ 2017-02-15T18:45:19+08:00 ] ::1 /web/shop/index.php/Admin/Index/title_bg1.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000024s ]
+
+[ 2017-02-15T18:46:13+08:00 ] ::1 /web/shop/index.php/Admin/Index/admin_p.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000018s ]
+
+[ 2017-02-15T18:46:13+08:00 ] ::1 /web/shop/index.php/Admin/Index/shadow_bg.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000017s ]
+
+[ 2017-02-15T18:46:13+08:00 ] ::1 /web/shop/index.php/Admin/Index/title_bg2.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000016s ]
+
+[ 2017-02-15T18:46:13+08:00 ] ::1 /web/shop/index.php/Admin/Index/menu_bg.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000016s ]
+
+[ 2017-02-15T18:46:13+08:00 ] ::1 /web/shop/index.php/Admin/Index/menu_icon.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000019s ]
+
+[ 2017-02-15T18:46:13+08:00 ] ::1 /web/shop/index.php/Admin/Index/menu_bt.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000025s ]
+
+[ 2017-02-15T18:46:13+08:00 ] ::1 /web/shop/index.php/Admin/Index/title_bg1.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000018s ]
+
+[ 2017-02-15T18:46:33+08:00 ] ::1 /web/shop/index.php/Admin/Index/menu_icon.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000022s ]
+
+[ 2017-02-15T18:46:33+08:00 ] ::1 /web/shop/index.php/Admin/Index/admin_p.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000016s ]
+
+[ 2017-02-15T18:46:33+08:00 ] ::1 /web/shop/index.php/Admin/Index/menu_bg.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000017s ]
+
+[ 2017-02-15T18:46:33+08:00 ] ::1 /web/shop/index.php/Admin/Index/menu_bt.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000020s ]
+
+[ 2017-02-15T18:46:33+08:00 ] ::1 /web/shop/index.php/Admin/Index/title_bg1.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000017s ]
+
+[ 2017-02-15T18:46:34+08:00 ] ::1 /web/shop/index.php/Admin/Index/title_bg2.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.001033s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000062s ]
+
+[ 2017-02-15T18:46:34+08:00 ] ::1 /web/shop/index.php/Admin/Index/shadow_bg.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000011s ]
+
+[ 2017-02-15T21:17:36+08:00 ] ::1 /web/shop/index.php/home/user/logo.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000014s ]
+
+[ 2017-02-15T21:17:36+08:00 ] ::1 /web/shop/index.php/home/user/biao7.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000015s ]
+
+[ 2017-02-15T21:17:36+08:00 ] ::1 /web/shop/index.php/home/user/biao6.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000081s ]
+
+[ 2017-02-15T21:17:36+08:00 ] ::1 /web/shop/index.php/home/user/di.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000019s ]
+
+[ 2017-02-15T21:17:36+08:00 ] ::1 /web/shop/index.php/home/user/ecmoban_link.jpg
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000017s ]
+
+[ 2017-02-15T21:17:36+08:00 ] ::1 /web/shop/index.php/home/user/yongda_logo.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000149s ]
+
+[ 2017-02-15T21:17:36+08:00 ] ::1 /web/shop/index.php/home/user/biao3.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000022s ]
+
+[ 2017-02-15T21:17:36+08:00 ] ::1 /web/shop/index.php/home/user/sousuo.gif
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000193s ]
+INFO: [ path_info ] --START--
+INFO: [ path_info ] --END-- [ RunTime:0.000024s ]
+
